@@ -155,6 +155,9 @@ body header {
     height: 250px;
 }
 
+aside blockquote {
+    margin: 0;
+}
 body {
     margin: 0;
     background-color: #F7F7F7;
