@@ -119,8 +119,9 @@ margin:0;
 
 #copyright {
     clear: both;
-    margin-left: 40%;
-    margin-right: 40%;
+    width:fit-content;
+    margin-left: auto;
+    margin-right: auto;
     padding-top: 100px;
     padding-bottom: 50px;
 }
