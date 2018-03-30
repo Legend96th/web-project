@@ -24,6 +24,7 @@ h1 h2 {
 }
 
 #sommaire {
+    list-style-type: none;
     width: 16%;
     height: 600px;
     float: left;
