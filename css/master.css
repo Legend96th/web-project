@@ -81,7 +81,7 @@ h1 h2 {
 }
 
 #content article footer {
-    padding: 2%;
+    float:right;
 }
 
 aside  #index{
